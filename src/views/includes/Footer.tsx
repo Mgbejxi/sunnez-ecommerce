@@ -1,4 +1,4 @@
-giimport React from 'react'
+import React from 'react'
 import NewsLetter from '../../components/NewsLetter'
 import { SocialsNetworks } from '../../components/SocialsNetworks'
 import { Link } from 'react-router-dom'
@@ -68,12 +68,12 @@ const Footer = () => {
                     </div>
                     <div className="d-flex flex-wrap gap-3">
                         <h6 className='fw-bold'>Health & Skin Care: </h6>
-                        <p className='opacity-50'><span>Skin Care | </span><span>Body Shower | </span><span>Makeup | </span></p>
+                        <p className='opacity-50'><span>Skin Care | </span><span>Cosmetics | </span><span>Makeup | </span></p>
                     </div>
                 </div><hr />
                 <div className="d-flex flex-wrap justify-content-between">
                     <p><img src="/img/payment.png" alt="" className='w-100'/></p>
-                    <p className="opacity-75">Copyright &copy; 2024 By <span className='fw-bold'>Sunnez Cosmetics</span></p>
+                    <p className="opacity-75">Copyright &copy; 2024 <span className='fw-bold'>Sunnez Cosmetics</span></p>
                 </div>
             </div>
         </footer>

@@ -108,8 +108,8 @@ const Promotion3 = () => {
       <img src="/img/banner2.jpg" alt="banner promo" className='w-100 h-100' />
     </div>
     <div className="promotion-text position-absolute w-100 p-2" style={{ top: '5%' }}>
-      <h4>85% Hat Free</h4>
-      <h3>Low-Fat Meet</h3>
+      <h4>100% </h4>
+      <h3>Beauty</h3>
       <h4 className='fw-bold my-3'>Started at <span className='fd-color-primary'>2k</span></h4>
       <Link to={RoutePaths.shop} className='fd-btn w-75 rounded-5 text-center'>Shop now <i className="bi bi-arrow-right"></i></Link>
     </div>
