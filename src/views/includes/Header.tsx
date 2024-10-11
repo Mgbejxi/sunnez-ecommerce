@@ -77,7 +77,9 @@ const Header: FC = () => {
             </div>
             <div className="navigation font-regular d-flex flex-wrap justify-content-between px-3 px-lg-5 py-4">
                 <nav className='navbar col-12 col-lg-7 navbar-expand-lg'>
-                    <Link to={"/"} className='navbar-brand me-5'><img src="/img/logo.png" alt="Logo" /></Link>
+                    <Link to={"/"} className='navbar-brand me-5'>
+                    <img src="/img/sunnez-A.jpg" alt="Logo" />
+                    </Link>
                     <button className="navbar-toggler" data-bs-toggle="collapse" data-bs-target="#headerNavbar">
                         <span className="navbar-icon-toggler"><i className="bi bi-list"></i></span>
                     </button>
