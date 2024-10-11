@@ -1,4 +1,4 @@
-import React from 'react'
+giimport React from 'react'
 import NewsLetter from '../../components/NewsLetter'
 import { SocialsNetworks } from '../../components/SocialsNetworks'
 import { Link } from 'react-router-dom'
@@ -27,7 +27,7 @@ const Footer = () => {
                             <div><a href="#">Contact Us</a></div>
                             <div><a href="#">Privacy Policy</a></div>
                             <div><a href="#">Frequently Questions</a></div>
-                            <div><a href="#">Costomer Service</a></div>
+                            <div><a href="#">Customer Service</a></div>
                         </div>
                     </div>
                     <div className="account">
@@ -44,36 +44,36 @@ const Footer = () => {
                         <h5 className='my-5'>Need Help?</h5>
                         <div className="opacity-75">
                             <div><a href="#">Help Center</a></div>
-                            <div><a href="#">Fodo Market Terms</a></div>
+                            <div><a href="#">Sunnez Market Terms</a></div>
                             <div><a href="#">Author Terms</a></div>
-                            <div><a href="#">Fodo Licences</a></div>
+                            <div><a href="#">Sunnez Licences</a></div>
                             <div><a href="#">Contact Us</a></div>
                         </div>
                     </div>
                     <div className="categories">
                         <h5 className='my-5'>Categories</h5>
                         <div className="opacity-75">
-                            <div><a href="#">Fruits & Vegetables</a></div>
-                            <div><a href="#">Dairy Products</a></div>
-                            <div><a href="#">Package Foods</a></div>
-                            <div><a href="#">Beverage</a></div>
+                            <div><a href="#">Cosmetics &</a></div>
+                            <div><a href="#">Beauty Products</a></div>
+                            <div><a href="#">Facials</a></div>
+                            <div><a href="#">Skin Care</a></div>
                             <div><a href="#">Health & Wellness</a></div>
                         </div>
                     </div>
                 </div>
                 <div className='my-5'>
                     <div className="d-flex flex-wrap gap-3">
-                        <h6 className='fw-bold'>Food & Vegetabe: </h6>
-                        <p className='opacity-50'><span>Carrots | </span><span>Broccoli | </span><span>Patato | </span><span>Carrots | </span><span>Broccoli | </span><span>Patato | </span><span>Carrots | </span><span>Broccoli | </span><span>Patato | </span></p>
+                        <h6 className='fw-bold'>Cosmetics & Beauty Products </h6>
+                        <p className='opacity-50'><span>Cosmetics | </span><span>Beauty | </span><span> Creams| </span><span>Lotions | </span><span>Broccoli | </span><span>Patato | </span><span>Carrots | </span><span>Broccoli | </span><span>Patato | </span></p>
                     </div>
                     <div className="d-flex flex-wrap gap-3">
-                        <h6 className='fw-bold'>Health & Beauthy: </h6>
-                        <p className='opacity-50'><span>Skin Kare | </span><span>Body Shower | </span><span>Makeup | </span></p>
+                        <h6 className='fw-bold'>Health & Skin Care: </h6>
+                        <p className='opacity-50'><span>Skin Care | </span><span>Body Shower | </span><span>Makeup | </span></p>
                     </div>
                 </div><hr />
                 <div className="d-flex flex-wrap justify-content-between">
                     <p><img src="/img/payment.png" alt="" className='w-100'/></p>
-                    <p className="opacity-75">Copyright &copy; 2023 By <span className='fw-bold'>Elfried Fortunatus KIDJE</span></p>
+                    <p className="opacity-75">Copyright &copy; 2024 By <span className='fw-bold'>Sunnez Cosmetics</span></p>
                 </div>
             </div>
         </footer>
